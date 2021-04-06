@@ -1,0 +1,11 @@
+D:\Visual 2019\C#_Winform\19N15\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Visual 2019\C#_Winform\19N15\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Visual 2019\C#_Winform\19N15\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Visual 2019\C#_Winform\19N15\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache
+D:\Visual 2019\C#_Winform\19N15\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+D:\Visual 2019\C#_Winform\19N15\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form2.resources
+D:\Visual 2019\C#_Winform\19N15\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Visual 2019\C#_Winform\19N15\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Visual 2019\C#_Winform\19N15\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Visual 2019\C#_Winform\19N15\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Visual 2019\C#_Winform\19N15\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
